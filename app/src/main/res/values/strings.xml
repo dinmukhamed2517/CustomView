@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomViewWeather</string>
+    <string name="day_cloud_rain"> Mid Rain</string>
+    <string name="night_cloud_rain">Mid Rain</string>
+    <string name="night_cloud_wind"> Wind</string>
+    <string name="tornado"> Tornado</string>
+</resources>
